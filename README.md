@@ -15,7 +15,7 @@ My name is Max, a 3rd Year PhD student at the University of Sheffield in the [Py
 ![DNA tracing workflow](images/tracing_pipeline.png)
 
 - 🌱 **I'm currently learning about:** image-based deep-learning models and how auto-encoders could help with shape analysis via transfer learning (private repo until publishing):
-![Inferring DNA shape via latent space variables](images/minicircles_on_mnist.png)
+![Inferring DNA shape via latent space variables](images/vae_clus_fig.png)
 
 Git Stats -->
 
