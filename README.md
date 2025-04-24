@@ -18,12 +18,6 @@ My name is Max, a 3rd Year PhD student at the University of Sheffield in the [Py
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgamill-sheffield&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Personal Git Profile
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgamill&count_private=true&show_icons=true&theme=blueberry)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgamill&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Current Interests
 - 🔭 **I'm currently working on:** image analysis workflows for atomic force microscopy images of DNA using [TopoStats](https://github.com/AFM-SPM/TopoStats/):
 
