@@ -13,9 +13,11 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
 
 ### Git Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-gamill&count_private=true&show_icons=true&theme=blueberry)
+![Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-gamill&layout=compact&theme=blueberry)
+![Anurag's GitHub stats (if you see this the API request server is down)](https://github-readme-stats.vercel.app/api?username=max-gamill&count_private=true&show_icons=true&theme=blueberry)
+
+![Top Langs (if you see this the API request server is down)](https://github-readme-stats.vercel.app/api/top-langs/?username=max-gamill&layout=compact&theme=blueberry)
 
 ### Current Interests
 - 🔭 **I'm currently working on:** image analysis workflows for atomic force microscopy images of DNA using [TopoStats](https://github.com/AFM-SPM/TopoStats/):
