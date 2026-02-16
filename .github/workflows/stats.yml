@@ -16,7 +16,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          path: docs/profile/stats.svg
           token: ${{ secrets.GH_STATS }}
 
       - name: Generate top languages card
@@ -24,7 +24,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          path: docs/profile/top-langs.svg
           token: ${{ secrets.GH_STATS }}
 
       - name: Generate pin card
@@ -32,13 +32,13 @@ jobs:
         with:
           card: pin
           options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: docs/profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GH_STATS }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add docs/profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
