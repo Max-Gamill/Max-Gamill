@@ -28,5 +28,6 @@ plugins:
 
 nav:
   - Introduction: index.md
-  - Blog: blog.md
-  - CV: cv.md
+  #- Blog: blog.md
+  #- CV: cv.md
+  #- Publications: publications.md
