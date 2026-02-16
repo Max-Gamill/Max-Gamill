@@ -13,7 +13,7 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
 
 ### Git Stats
 
-![Stats](profile/stats.svg)
+![Stats](profile_stats/stats.svg)
 
 ![Anurag's GitHub stats (if you see this the API request server is down)](https://github-readme-stats.vercel.app/api?username=max-gamill&count_private=true&show_icons=true&theme=blueberry)
 
