@@ -21,10 +21,16 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
 
 ### Current Interests
 - 🔭 **I'm currently working on:** image analysis workflows for atomic force microscopy images of DNA using [TopoStats](https://github.com/AFM-SPM/TopoStats/):
-> <img src="images/tracing_pipeline.png" alt="DNA tracing workflow" width="50%"/>
+
+<div style="text-align:center">
+  <img src="images/tracing_pipeline.png" alt="DNA tracing workflow" width="50%"/>
+</div>
 
 - 🌱 **I'm currently learning about:** computer vision deep-learning models and how auto-encoders could help with shape analysis via transfer learning (private repo until published):
-> <img src="images/vae_clus_fig.png" alt="Inferring DNA shape via latent space variables" width="50%"/>
+
+<div style="text-align:center">
+  <img src="images/vae_clus_fig.png" alt="Inferring DNA shape via latent space variables" width="50%"/>
+</div>
 
 ### Additional Projects:
 - Created from scratch an interactive portfolio website showcasing early work such as; a simple feed-forward neural network to classify hand-drawn numbers trained on the MNIST dataset, a susceptible, recovered and infected (SIR) disease model, and monte-carlo simulations to model the magnetic moments of a 1D spin Ising model.
@@ -32,4 +38,7 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
   - The project used: a HTML, CSS and JavaScript frontend, a Django and AJAX backend, hosted on a Ubuntu Raspberry Pi, equipped with an Apache gateway and port forwarding. (The webserver is currently down to free up the Raspberry Pi for other projects). Source code available [here](https://github.com/Max-gamill/Django-Portfolio).
 
 - (In progress) Creating from scratch an marketplace for personalised artwork / photo editing using a variety of algorithms and machine learning models (no generative models!). Once complete I hope that people would be able to apply funky filters to their own images and personalise them for cards / invitations such as those below:
-> <img src="images/image-site.png" alt="Image website" width="70%"/>
+
+<div style="text-align:center">
+  <img src="images/image-site.png" alt="Image website" width="70%"/>
+</div>
