@@ -11,7 +11,7 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
 
 - ⚡ **Fun fact:** In a stark contrast to coding, I love adrenaline sports such as trail running, mountain biking, climbing, and skiing.
 
-### Git Stats
+## Git Stats
 
 ![Stats](profile_stats/stats.svg)
 
@@ -19,7 +19,7 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
 
 ![Top Langs (if you see this the API request server is down)](https://github-readme-stats.vercel.app/api/top-langs/?username=max-gamill&layout=compact&theme=blueberry)
 
-### Current Interests
+## Current Interests
 - 🔭 **I'm currently working on:** image analysis workflows for atomic force microscopy images of DNA using [TopoStats](https://github.com/AFM-SPM/TopoStats/):
 
 <div style="text-align:center">
@@ -32,7 +32,7 @@ I completed my PhD at the University of Sheffield in the [Pyne Lab](https://pyne
   <img src="docs/images/vae_clus_fig.png" alt="Inferring DNA shape via latent space variables" width="50%"/>
 </div>
 
-### Additional Projects:
+## Additional Projects:
 - Created from scratch an interactive portfolio website showcasing early work such as; a simple feed-forward neural network to classify hand-drawn numbers trained on the MNIST dataset, a susceptible, recovered and infected (SIR) disease model, and monte-carlo simulations to model the magnetic moments of a 1D spin Ising model.
   - A key challenge here was to create a frontend which could take client-side variables (and mouse-drawn canvases!) and send these to the appropriate python scripts to be processed on the Raspberry Pi server.
   - The project used: a HTML, CSS and JavaScript frontend, a Django and AJAX backend, hosted on a Ubuntu Raspberry Pi, equipped with an Apache gateway and port forwarding. (The webserver is currently down to free up the Raspberry Pi for other projects). Source code available [here](https://github.com/Max-gamill/Django-Portfolio).
